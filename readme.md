@@ -10,7 +10,7 @@ The template creates the following files of note:
 * [MakeRelease.ps1](src/Content/GorillaTagModTemplateProject/MakeRelease.ps1): This script generates a [MonkeModManager](https://github.com/BzzzThe18th/MonkeModManager) compatible release (named ModName-v.zip). You should use this to create builds that you share with others.
 * [Directory.Build.props](src\Content\GorillaTagModTemplateProject\Directory.Build.props): This file contains information about where dependencies are located. If you are getting CS024 (type could not be found) errors, GamePath is probably wrong. 
 
-##Steps
+## Steps
 
 1. Download the [Latest Release](https://github.com/Toastconcern/GorillaTagModTemplate/releases/latest)
 
