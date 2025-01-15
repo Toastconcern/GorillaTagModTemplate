@@ -16,4 +16,5 @@ The template creates the following files of note:
 
 2. Open GorillaTagModTemplateProject.sln in Visual Studio
 
-3. To build, click Build, then Build Solution![image](https://github.com/user-attachments/assets/2857aeb7-ca63-48a9-be62-1e9273a9b3b7)
+3. To build, click Build, then Build Solution
+![image](https://github.com/user-attachments/assets/2857aeb7-ca63-48a9-be62-1e9273a9b3b7)
