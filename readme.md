@@ -14,7 +14,7 @@ The template creates the following files of note:
 
 1. Download the [Latest Release](https://github.com/Toastconcern/GorillaTagModTemplate/releases/latest)
 
-2. Open the GorillaTagModTemplateProject, then open GorillaTagModTemplateProject.csproj in Visual Studio
+2. Open the GorillaTagModTemplateProject, then open GorillaTagModTemplateProject.csproj
 
 3. To build, click Build, then Build Solution
 ![image](https://github.com/user-attachments/assets/2857aeb7-ca63-48a9-be62-1e9273a9b3b7)
