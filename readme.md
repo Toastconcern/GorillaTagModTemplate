@@ -1,6 +1,5 @@
-# Gorilla Tag Mod Template
+# Gorilla Tag Mod Template (Updated for Newtilla)
 
-.NET Project Template for PCVR Gorilla Tag Mods
 
 ## Usage
 
