@@ -19,7 +19,8 @@ namespace GorillaTagModTemplateProject
 		{
 			/* A lot of Gorilla Tag systems will not be set up when start is called /*
 			/* Put code in OnGameInitialized to avoid null references */
-
+			Newtilla.Newtilla.OnJoinModded += OnModdedJoined;
+        		Newtilla.Newtilla.OnLeaveModded += OnModdedLeft;
 
 		}
 
